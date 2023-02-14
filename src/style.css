@@ -1,0 +1,15 @@
+body {
+  background-color: #f1f5f8;
+}
+.login {
+  display: grid;
+  height: 100vh;
+  place-content: center;
+}
+.login-btn {
+  padding: 0.5rem 0.75rem;
+  font-size: 2rem;
+  background-color: #fff;
+  border: 1px solid black;
+  cursor: pointer;
+}
